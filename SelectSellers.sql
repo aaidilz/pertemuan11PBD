@@ -1,0 +1,1 @@
+SELECT * FROM vw_seller_product_and_category_product;
