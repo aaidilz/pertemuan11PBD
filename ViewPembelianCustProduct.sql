@@ -1,4 +1,4 @@
-CREATE VIEW vw_order_details AS
+CREATE VIEW vw_pembelian AS
 SELECT 
     c.name AS customer_name,
     p.name AS product_name,
